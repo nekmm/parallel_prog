@@ -1,0 +1,15 @@
+
+matrix_mult
+matrix_mult.exe
+*.exe
+*.o
+
+data/*.txt
+
+results/matrix_C_*.txt
+
+__pycache__/
+*.pyc
+
+.vscode/
+.idea/
